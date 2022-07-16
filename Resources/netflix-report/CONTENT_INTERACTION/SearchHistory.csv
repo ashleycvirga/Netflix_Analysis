@@ -1,0 +1,170 @@
+Profile Name,Country Iso Code,Device,Is Kids,Query Typed,Displayed Name,Action,Section,Utc Timestamp
+Dominic,US,Smart TV,0,not,Not Another Teen Movie,play,title_results,2022-06-08 01:46:39
+Dominic,US,Smart TV,0,not,Not Another Teen Movie,select,title_results,2022-06-08 01:46:33
+Dominic,US,Smart TV,0,atmos,6 Underground,play,title_results,2022-04-16 05:30:38
+Dominic,US,Smart TV,0,atmos,6 Underground,select,title_results,2022-04-16 05:30:35
+Dominic,US,Smart TV,0,atmos,6 Underground,play,title_results,2022-04-16 05:29:09
+Dominic,US,Smart TV,0,atmos,6 Underground,select,title_results,2022-04-16 05:29:05
+Dominic,US,Smart TV,0,drag,,play,title_results,2022-03-21 05:21:26
+Dominic,US,Smart TV,0,drag,,select,title_results,2022-03-21 05:21:21
+Dominic,US,Smart TV,0,petd ,Pete Davidson: Alive From New York,play,title_results,2022-03-20 01:36:50
+Dominic,US,Smart TV,0,petd ,Pete Davidson: Alive From New York,select,title_results,2022-03-20 01:36:47
+Dominic,US,Smart TV,0,diy,,play,title_results,2021-12-06 23:44:25
+Dominic,US,Smart TV,0,diy,,select,title_results,2021-12-06 23:44:13
+Dominic,US,Smart TV,0,our,,play,title_results,2021-08-11 04:39:38
+Dominic,US,Smart TV,0,our,,select,title_results,2021-08-11 04:39:31
+Dominic,US,Smart TV,0,bone,,select,,2021-04-21 15:23:28
+Dominic,US,Smart TV,0,one r,Once in a Lifetime Sessions with OneRepublic,play,,2021-04-11 04:05:55
+Dominic,US,Smart TV,0,one r,Once in a Lifetime Sessions with OneRepublic,select,,2021-04-11 04:05:52
+Dominic,US,iPhone,0,tom hanks,,select,,2021-02-22 03:16:00
+Dominic,US,Smart TV,0,ne,,play,,2021-01-19 05:30:25
+Dominic,US,Smart TV,0,ne,,select,,2021-01-19 05:30:23
+Dominic,US,Smart TV,0,st,,select,,2021-01-04 18:17:33
+Dominic,US,Smart TV,0,a,Ninja Assassin,select,,2020-12-09 05:49:20
+Dominic,US,Smart TV,0,baby driv,Ip Man 4: The Finale,select,,2020-12-06 03:11:41
+Dominic,US,Smart TV,0,baby driv,We Are Your Friends,select,,2020-12-06 03:10:23
+Dominic,US,Smart TV,0,who,,play,,2020-09-28 18:06:38
+Dominic,US,Smart TV,0,who,,select,,2020-09-28 18:06:35
+Dominic,US,Smart TV,0,ex,,select,,2020-09-28 17:55:02
+Dominic,US,Smart TV,0,lege,,play,,2020-09-01 04:13:39
+Dominic,US,Smart TV,0,lege,,select,,2020-09-01 04:12:55
+Dominic,US,Smart TV,0,a,,play,,2020-09-01 02:48:19
+Dominic,US,Smart TV,0,a,,select,,2020-09-01 02:48:07
+Dominic,US,Smart TV,0,superg,,play,,2020-09-01 01:27:48
+Dominic,US,Smart TV,0,superg,,select,,2020-09-01 01:27:36
+Dominic,US,Smart TV,0,night,The Night Clerk,play,,2020-06-19 04:13:03
+Dominic,US,Smart TV,0,night,The Night Clerk,select,,2020-06-19 04:13:01
+Dominic,US,iPhone,0,the night,The Night Clerk,select,,2020-06-13 07:15:54
+Dominic,US,Smart TV,0,s,,play,,2020-06-11 15:17:14
+Dominic,US,Smart TV,0,s,,select,,2020-06-11 15:17:11
+Dominic,US,Smart TV,0,fl,,play,,
+Dominic,US,Smart TV,0,fl,,select,,
+P. Michael,US,MVPD STB,0,far,Fargo,select,suggestion_results,2022-06-24 02:29:11
+P. Michael,US,MVPD STB,0,squi,,play,title_results,2022-06-12 20:23:44
+P. Michael,US,MVPD STB,0,squi,,select,title_results,2022-06-12 20:23:26
+P. Michael,US,MVPD STB,0,jack,Jackass: The Movie,play,title_results,2022-06-12 03:32:19
+P. Michael,US,MVPD STB,0,jack,Jackass: The Movie,select,title_results,2022-06-12 03:32:03
+P. Michael,US,MVPD STB,0,ol,Old Enough,select,suggestion_results,2022-04-26 03:41:59
+P. Michael,US,MVPD STB,0,ol,,play,suggestion_results,2022-04-26 03:27:04
+P. Michael,US,MVPD STB,0,ol,,select,suggestion_results,2022-04-26 03:26:50
+P. Michael,US,MVPD STB,0,ol,Old Enough,select,suggestion_results,2022-04-26 03:26:47
+P. Michael,US,MVPD STB,0,the vegan,,play,title_results,2022-03-26 23:02:53
+P. Michael,US,MVPD STB,0,the vegan,,select,title_results,2022-03-26 23:02:41
+P. Michael,US,MVPD STB,0,romance movie,Something Borrowed,play,title_results,2022-02-11 23:40:08
+P. Michael,US,MVPD STB,0,romance movie,Something Borrowed,select,title_results,2022-02-11 23:39:56
+P. Michael,US,MVPD STB,0,dair,,play,title_results,2022-02-11 03:31:37
+P. Michael,US,MVPD STB,0,dair,,select,title_results,2022-02-11 03:31:25
+P. Michael,US,MVPD STB,0,we,,play,title_results,2022-01-25 03:55:50
+P. Michael,US,MVPD STB,0,we,,select,title_results,2022-01-25 03:55:42
+P. Michael,US,MVPD STB,0,doc ,,play,suggestion_results,2022-01-11 04:08:00
+P. Michael,US,MVPD STB,0,doc ,,select,suggestion_results,2022-01-11 04:07:52
+P. Michael,US,MVPD STB,0,doc ,Doc Martin,select,suggestion_results,2022-01-11 04:07:25
+P. Michael,US,MVPD STB,0,john ,John Mulaney: Kid Gorgeous at Radio City,play,suggestion_results,2021-12-28 03:35:37
+P. Michael,US,MVPD STB,0,john ,John Mulaney: Kid Gorgeous at Radio City,select,suggestion_results,2021-12-28 03:35:22
+P. Michael,US,MVPD STB,0,john ,,select,suggestion_results,2021-12-28 03:35:02
+P. Michael,US,Streaming Stick,0,anoth,,play,title_results,2021-11-28 18:05:40
+P. Michael,US,Streaming Stick,0,anoth,,select,title_results,2021-11-28 18:05:37
+P. Michael,US,MVPD STB,0,co,,select,suggestion_results,2021-11-21 01:23:23
+P. Michael,US,MVPD STB,0,hol,The Holiday,play,title_results,2021-11-13 22:26:21
+P. Michael,US,MVPD STB,0,hol,The Holiday,select,title_results,2021-11-13 22:26:07
+P. Michael,US,MVPD STB,0,ve,Venom,select,suggestion_results,2021-09-29 03:00:39
+P. Michael,US,MVPD STB,0,ha,,select,suggestion_results,2021-06-24 03:24:47
+P. Michael,US,MVPD STB,0,ki,,play,,2021-04-07 20:08:53
+P. Michael,US,MVPD STB,0,ki,,select,,2021-04-07 20:08:39
+P. Michael,US,MVPD STB,0,tabu,,select,,2021-03-18 03:33:57
+P. Michael,US,HTML 5,0,i care,I Care a Lot,play,,2021-02-25 21:33:13
+P. Michael,US,MVPD STB,0,mal,Malcolm & Marie,play,,2021-02-06 03:10:28
+P. Michael,US,MVPD STB,0,mal,Malcolm & Marie,play,,2021-02-06 03:06:41
+P. Michael,US,MVPD STB,0,mal,Malcolm & Marie,select,,2021-02-06 03:06:30
+P. Michael,US,MVPD STB,0,ne,,play,,2021-02-03 03:01:18
+P. Michael,US,MVPD STB,0,ne,,select,,2021-02-03 03:01:07
+P. Michael,US,MVPD STB,0,the las,,play,,2020-11-13 04:12:16
+P. Michael,US,MVPD STB,0,the las,,select,,2020-11-13 04:12:13
+P. Michael,US,MVPD STB,0,the vik,The Vikings,select,,2020-11-13 04:11:01
+P. Michael,US,Smart TV,0,the inner light,,play,,2020-10-25 18:44:16
+P. Michael,US,Smart TV,0,the inner light,,select,,2020-10-25 18:43:34
+P. Michael,US,MVPD STB,0,tort,Tortilla Soup,play,,2020-09-27 04:32:13
+P. Michael,US,MVPD STB,0,tort,Tortilla Soup,select,,2020-09-27 04:32:04
+P. Michael,US,MVPD STB,0,da,,play,,2020-08-18 03:32:01
+P. Michael,US,MVPD STB,0,da,,play,,2020-08-18 03:30:47
+P. Michael,US,MVPD STB,0,da,,select,,2020-08-18 03:30:39
+P. Michael,US,Streaming Stick,0,lo,,play,,2020-05-29 05:07:45
+P. Michael,US,Streaming Stick,0,lo,,play,,2020-05-29 05:07:16
+P. Michael,US,Streaming Stick,0,lo,,select,,2020-05-29 05:07:15
+P. Michael,US,Streaming Stick,0,lo,Love,select,,2020-05-29 05:06:59
+P. Michael,US,MVPD STB,0,and,The Andromeda Strain,select,,
+P. Michael,US,MVPD STB,0,and,Outbreak,select,,
+P. Michael,US,MVPD STB,0,and,Outbreak,play,,
+Ashley,US,Streaming Stick,0,ol,,play,title_results,2022-04-17 04:46:04
+Ashley,US,Streaming Stick,0,ol,,select,title_results,2022-04-17 04:45:59
+Ashley,US,iPad,0,we h,We Have Always Lived in the Castle,play,title_results,2022-03-22 07:13:54
+Ashley,US,iPad,0,we h,We Have Always Lived in the Castle,select,title_results,2022-03-22 07:13:36
+Ashley,US,Streaming Stick,0,no me inv,Feo pero sabroso,play,title_results,2022-03-05 05:00:57
+Ashley,US,Streaming Stick,0,no me inv,Feo pero sabroso,select,title_results,2022-03-05 05:00:54
+Ashley,US,Streaming Stick,0,no me inv,Si saben cómo me pongo ¿pa' qué me invitan?,play,title_results,2022-03-05 04:55:30
+Ashley,US,Streaming Stick,0,no me inv,Si saben cómo me pongo ¿pa' qué me invitan?,select,title_results,2022-03-05 04:55:28
+Ashley,US,Streaming Stick,0,no me inv,Si saben cómo me pongo ¿pa' qué me invitan?,play,title_results,2022-03-05 03:22:16
+Ashley,US,Streaming Stick,0,no me inv,Si saben cómo me pongo ¿pa' qué me invitan?,select,title_results,2022-03-05 03:22:13
+Ashley,US,iPad,0,amer,"American Horror Story: Cult: ""Drink the Kool-Aid""",play,title_results,2021-11-02 08:37:35
+Ashley,US,iPad,0,amer,,select,title_results,2021-11-02 08:36:44
+Ashley,US,Smart TV,0,pos,,play,title_results,2021-07-26 04:36:32
+Ashley,US,Smart TV,0,pos,,play,title_results,2021-07-26 04:24:20
+Ashley,US,Smart TV,0,pos,,select,title_results,2021-07-26 04:24:15
+Ashley,US,Smart TV,0,blue,,play,title_results,2021-07-05 07:34:35
+Ashley,US,Smart TV,0,blue,,select,title_results,2021-07-05 07:34:29
+Ashley,US,Smart TV,0,mind,The Rugrats Movie,play,title_results,2021-07-04 09:32:30
+Ashley,US,Smart TV,0,mind,The Rugrats Movie,select,title_results,2021-07-04 09:32:27
+Ashley,US,Smart TV,0,mind,,play,title_results,2021-07-04 09:28:24
+Ashley,US,Smart TV,0,mind,,select,title_results,2021-07-04 09:28:20
+Ashley,US,Smart TV,0,mind,,select,title_results,2021-07-04 09:26:48
+Ashley,US,Smart TV,0,will arnet,,play,title_results,2021-06-16 09:40:57
+Ashley,US,Smart TV,0,will arnet,,select,title_results,2021-06-16 09:40:51
+Ashley,US,Smart TV,0,fai,My Fair Lady,play,title_results,2021-06-15 07:29:38
+Ashley,US,Smart TV,0,fai,My Fair Lady,select,title_results,2021-06-15 07:29:35
+Ashley,US,Smart TV,0,my ,My Fair Lady,play,title_results,2021-06-15 07:00:00
+Ashley,US,Smart TV,0,my ,My Fair Lady,select,title_results,2021-06-15 06:56:58
+Ashley,US,Smart TV,0,frie,Friends,select,,2021-05-25 05:24:35
+Ashley,US,Smart TV,0,fa,,play,,2021-02-05 22:51:12
+Ashley,US,Smart TV,0,fa,,play,,2021-02-05 22:14:31
+Ashley,US,Smart TV,0,fa,,select,,2021-02-05 22:14:27
+Ashley,US,iPad,0,murder mo,"Murder Mountain: Season 1: ""The Redwood Curtain""",play,,2020-12-16 17:02:40
+Ashley,US,iPad,0,murder mo,,add,,2020-12-16 17:02:35
+Ashley,US,iPad,0,murder mo,,select,,2020-12-16 17:02:27
+Ashley,US,Smart TV,0,le,A New York Christmas Wedding,play,,2020-12-12 04:53:15
+Ashley,US,Smart TV,0,le,A New York Christmas Wedding,select,,2020-12-12 04:53:00
+Ashley,US,Smart TV,0,le,,select,,2020-12-12 04:52:36
+Ashley,US,Smart TV,0,the ha,The Half Of It,play,,2020-12-09 05:43:20
+Ashley,US,Smart TV,0,the ha,The Half Of It,select,,2020-12-09 05:43:16
+Ashley,US,Smart TV,0,de,,play,,2020-10-21 06:16:39
+Ashley,US,Smart TV,0,de,,select,,2020-10-21 06:16:08
+Ashley,US,Smart TV,0,uno,,play,,2020-10-14 00:49:46
+Ashley,US,Smart TV,0,uno,,select,,2020-10-14 00:49:42
+Ashley,US,Smart TV,0,bab,,play,,2020-09-28 03:03:59
+Ashley,US,Smart TV,0,bab,,play,,2020-09-28 03:01:57
+Ashley,US,Smart TV,0,bab,,select,,2020-09-28 03:01:10
+Ashley,US,Smart TV,0,st,,play,,2020-09-11 02:57:01
+Ashley,US,Smart TV,0,st,,select,,2020-09-11 02:56:56
+Ashley,US,Smart TV,0,st,,play,,2020-09-11 02:55:37
+Ashley,US,Smart TV,0,st,,play,,2020-09-11 02:50:14
+Ashley,US,Smart TV,0,st,,select,,2020-09-11 02:50:09
+Ashley,US,Smart TV,0,st,,select,,2020-09-11 02:49:52
+Ashley,US,Smart TV,0,of,,play,,2020-09-09 07:09:43
+Ashley,US,Smart TV,0,of,,select,,2020-09-09 07:09:30
+Ashley,US,Smart TV,0,lov,,play,,2020-08-17 04:43:05
+Ashley,US,Smart TV,0,lov,,select,,2020-08-17 04:42:53
+Ashley,US,Smart TV,0,lov,,play,,2020-08-16 04:26:12
+Ashley,US,Smart TV,0,lov,,select,,2020-08-16 04:26:01
+Ashley,US,Smart TV,0,impo,,play,,2020-08-11 05:38:24
+Ashley,US,Smart TV,0,impo,,play,,2020-08-11 05:37:31
+Ashley,US,Smart TV,0,impo,,play,,2020-08-11 04:56:49
+Ashley,US,Smart TV,0,impo,,play,,2020-08-11 04:56:17
+Ashley,US,Smart TV,0,impo,,select,,2020-08-11 04:56:14
+Ashley,US,Smart TV,0,ann,,play,,2020-07-13 20:34:57
+Ashley,US,Smart TV,0,ann,,select,,2020-07-13 20:34:54
+Ashley,US,Smart TV,0,mindy,,play,,2020-07-07 02:33:19
+Ashley,US,Smart TV,0,mindy,,select,,2020-07-07 02:33:10
+Ashley,US,Smart TV,0,mindy,,select,,2020-07-07 02:33:08
+Ashley,US,Smart TV,0,dir,,play,,2020-06-25 03:34:21
+Ashley,US,Smart TV,0,dir,,select,,2020-06-25 03:34:18
+Ashley,US,Smart TV,0,les,Lez Bomb,play,,2020-06-15 17:25:52
+Ashley,US,Smart TV,0,les,Lez Bomb,select,,2020-06-15 17:25:44
